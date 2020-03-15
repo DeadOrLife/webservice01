@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persons[
+        <!ELEMENT persons (person+)>
+        <!ELEMENT person (name,password?,(age|sex))>
+        <!--DTD常用的控制符 ?表示0次或者1次，*号表示0次或者多次，+表示1次或者多次，什么都不行表示1次 |不是这个就是那个 -->
+        <!ATTLIST person id ID #REQUIRED>
+        <!ATTLIST person sex CDATA #REQUIRED>
+        <!ELEMENT id (#PCDATA)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT password (#PCDATA)>
+        <!ELEMENT age (#PCDATA)>
+        <!ELEMENT sex (#PCDATA)>
+        ]>
+<persons>
+    <person id="P1" sex="1">
+        <name>1</name>
+        <password>1</password>
+        <age>1</age>
+    </person>
+    <person id="P2" sex="3">
+        <name>2</name>
+        <password>2</password>
+        <sex>男</sex>
+    </person>
+</persons>

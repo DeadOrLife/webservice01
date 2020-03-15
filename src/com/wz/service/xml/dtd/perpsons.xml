@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persons SYSTEM "persons.dtd">
+<persons>
+    <person id="p1">
+        <sex>女</sex>
+        <name>琳</name>
+        <age>23</age>
+        <messages>
+            <message>
+                <title>河星</title>
+                <content>我与春风皆过客</content>
+            </message>
+            <message>
+                <title>少林</title>
+                <content>南无阿弥陀佛</content>
+            </message>
+        </messages>
+        <messages>
+            <message>
+                <title></title>
+                <content></content>
+            </message>
+        </messages>
+    </person>
+</persons>

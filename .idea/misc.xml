@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://www.example.org/01" location="$PROJECT_DIR$/src/com/wz/service/xml/schema/01.xsd" />
+    <resource url="http://www.example.org/02" location="$PROJECT_DIR$/src/com/wz/service/xml/schema/02.xsd" />
+    <resource url="http://www.example.org/03" location="$PROJECT_DIR$/src/com/wz/service/xml/schema/03.xsd" />
+    <resource url="http://www.example.org/04" location="$PROJECT_DIR$/src/com/wz/service/xml/schema/04.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--,隔开也要注意顺序-->
+<!ELEMENT classroom (grade,claName,students)>
+<!ATTLIST classroom id ID #REQUIRED>
+<!ELEMENT grade (#PCDATA)>
+<!ELEMENT claName (#PCDATA)>
+<!ELEMENT students (student+)>
+<!ELEMENT student (id,name,age)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!--?0次或者1次 *0次多次 +1次或者多次 不写1次-->

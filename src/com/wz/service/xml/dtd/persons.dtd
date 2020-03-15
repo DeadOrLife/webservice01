@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT persons (person)>
+<!ELEMENT person (sex,name,age,messages+)>
+<!ATTLIST person id ID #REQUIRED>
+<!ELEMENT sex (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT messages (message+)>
+<!ELEMENT message (title,content)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
+<!-- 独立的语法  -->
