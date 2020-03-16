@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE classroom SYSTEM "classroom.dtd">
+<classroom id="p1">
+    <grade>2015</grade>
+    <claName>计算机应用技术</claName>
+    <students>
+        <student>
+            <id>1</id>
+            <name>wz</name>
+            <age>24</age>
+        </student>
+    </students>
+</classroom>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book:books xmlns:book="http://www.example.org/02"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="02.xsd">
+    <book:book id="1">
+        <book:title>程序员的自我修养</book:title>
+        <book:content>寂寞与孤独</book:content>
+        <book:author>wz</book:author>
+        <book:price>2.2</book:price>
+    </book:book>
+    <book:book id="2">
+        <book:title>javascript</book:title>
+        <book:content>入门到精通</book:content>
+        <book:authors>
+            <book:author>Make</book:author>
+            <book:author>Jerry</book:author>
+        </book:authors>
+        <book:price>3.3</book:price>
+    </book:book>
+</book:books>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f9d4471-c43d-418e-b889-1d96f84a5c7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/service/xml/apply/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/service/xml/apply/JaxbTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/service/xml/apply/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/service/xml/schema/classroom.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/service/xml/schema/student.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/service/xml/stax/StaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/service/xml/stax/books.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webservice01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webservice01.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="XML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z9NiaqTUYpHhYdnS3A6J8CkZly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/wz/service/xml/schema" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/wz/service/xml/schema" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/wz/service/xml/stax" />
+      <recent name="$PROJECT_DIR$/src/com/wz/service/xml/dtd" />
+      <recent name="$PROJECT_DIR$/src/com/wz/service/xml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StaxTest.test08">
+    <configuration name="StaxTest.test05 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.service.xml.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wz.service.xml.stax" />
+      <option name="MAIN_CLASS_NAME" value="com.wz.service.xml.stax.StaxTest" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaxTest.test05 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.service.xml.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wz.service.xml.stax" />
+      <option name="MAIN_CLASS_NAME" value="com.wz.service.xml.stax.StaxTest" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaxTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.service.xml.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wz.service.xml.stax" />
+      <option name="MAIN_CLASS_NAME" value="com.wz.service.xml.stax.StaxTest" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaxTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.service.xml.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wz.service.xml.stax" />
+      <option name="MAIN_CLASS_NAME" value="com.wz.service.xml.stax.StaxTest" />
+      <option name="METHOD_NAME" value="test07" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaxTest.test08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webservice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.service.xml.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wz.service.xml.stax" />
+      <option name="MAIN_CLASS_NAME" value="com.wz.service.xml.stax.StaxTest" />
+      <option name="METHOD_NAME" value="test08" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StaxTest.test08" />
+        <item itemvalue="JUnit.StaxTest.test07" />
+        <item itemvalue="JUnit.StaxTest.test06" />
+        <item itemvalue="JUnit.StaxTest.test05 (2)" />
+        <item itemvalue="JUnit.StaxTest.test05 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f9d4471-c43d-418e-b889-1d96f84a5c7e" name="Default Changelist" comment="" />
+      <created>1584247477767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584247477767</updated>
+      <workItem from="1584247479144" duration="22656000" />
+      <workItem from="1584291228726" duration="1789000" />
+      <workItem from="1584360098983" duration="11680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="225" key="#Project_Structure" timestamp="1584247641755">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="225" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1584247641755" />
+    <state x="934" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584280813715">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="934" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1033@0.23.1792.1033" timestamp="1584280813715" />
+    <state x="1162" y="277" key="#com.intellij.ide.util.MemberChooser" timestamp="1584368969634">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="1162" y="276" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1584248479983" />
+    <state x="1162" y="277" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1033@0.23.1792.1033" timestamp="1584368969634" />
+    <state x="1162" y="278" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1036@0.23.1792.1036" timestamp="1584251785055" />
+    <state x="959" y="290" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1584369025492">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="959" y="290" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1584369025492" />
+    <state x="479" y="158" key="CommitChangelistDialog2" timestamp="1584378074147">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="479" y="158" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1584378074147" />
+    <state x="752" y="438" width="287" height="274" key="Github.ShareDialog" timestamp="1584292932468">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="752" y="438" width="287" height="274" key="Github.ShareDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1584292932468" />
+    <state x="680" y="247" key="Github.UntrackedFilesDialog" timestamp="1584292939210">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="680" y="247" key="Github.UntrackedFilesDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1584292939210" />
+    <state width="1750" height="194" key="GridCell.Tab.0.bottom" timestamp="1584377975395">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="194" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1584377975395" />
+    <state width="921" height="194" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1584376421437" />
+    <state width="921" height="194" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1584377732454" />
+    <state width="936" height="143" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1584283850838" />
+    <state width="921" height="194" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1584369969722" />
+    <state width="1750" height="143" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1584255378774" />
+    <state width="936" height="143" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1584273321405" />
+    <state width="1750" height="143" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1584256489008" />
+    <state width="1750" height="194" key="GridCell.Tab.0.center" timestamp="1584377975394">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="194" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1584377975394" />
+    <state width="921" height="194" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1584376421436" />
+    <state width="921" height="194" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1584377732453" />
+    <state width="936" height="143" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1584283850838" />
+    <state width="921" height="194" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1584369969721" />
+    <state width="1750" height="143" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1584255378773" />
+    <state width="936" height="143" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1584273321405" />
+    <state width="1750" height="143" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1584256489007" />
+    <state width="1750" height="194" key="GridCell.Tab.0.left" timestamp="1584377975393">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="194" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1584377975393" />
+    <state width="921" height="194" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1584376421436" />
+    <state width="921" height="194" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1584377732453" />
+    <state width="936" height="143" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1584283850837" />
+    <state width="921" height="194" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1584369969721" />
+    <state width="1750" height="143" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1584255378772" />
+    <state width="936" height="143" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1584273321404" />
+    <state width="1750" height="143" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1584256489007" />
+    <state width="1750" height="194" key="GridCell.Tab.0.right" timestamp="1584377975395">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="194" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1584377975395" />
+    <state width="921" height="194" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1584376421437" />
+    <state width="921" height="194" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1584377732454" />
+    <state width="936" height="143" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1584283850838" />
+    <state width="921" height="194" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1584369969722" />
+    <state width="1750" height="143" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1584255378773" />
+    <state width="936" height="143" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1584273321405" />
+    <state width="1750" height="143" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1584256489008" />
+    <state width="921" height="326" key="GridCell.Tab.1.bottom" timestamp="1584375319089">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="921" height="326" key="GridCell.Tab.1.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1584375319089" />
+    <state width="921" height="326" key="GridCell.Tab.1.center" timestamp="1584375319089">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="921" height="326" key="GridCell.Tab.1.center/0.23.1792.1028@0.23.1792.1028" timestamp="1584375319089" />
+    <state width="921" height="326" key="GridCell.Tab.1.left" timestamp="1584375319088">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="921" height="326" key="GridCell.Tab.1.left/0.23.1792.1028@0.23.1792.1028" timestamp="1584375319088" />
+    <state width="921" height="326" key="GridCell.Tab.1.right" timestamp="1584375319089">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="921" height="326" key="GridCell.Tab.1.right/0.23.1792.1028@0.23.1792.1028" timestamp="1584375319089" />
+    <state x="709" y="99" key="SettingsEditor" timestamp="1584369043961">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="709" y="99" key="SettingsEditor/0.23.1792.1030@0.23.1792.1030" timestamp="1584292885057" />
+    <state x="709" y="99" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1584288248732" />
+    <state x="709" y="99" key="SettingsEditor/0.23.1792.1033@0.23.1792.1033" timestamp="1584369043961" />
+    <state x="383" y="121" key="SettingsEditor/0.23.1792.1034@0.23.1792.1034" timestamp="1584254451870" />
+    <state x="383" y="121" key="SettingsEditor/0.23.1792.1037@0.23.1792.1037" timestamp="1584251315375" />
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1584360100525">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1584360100525" />
+    <state x="1014" y="444" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584369093607">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="1014" y="444" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1033@0.23.1792.1033" timestamp="1584369093607" />
+    <state x="610" y="159" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1584292136924">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="610" y="159" key="com.intellij.javaee.MapExternalResourceDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1584292136924" />
+    <state x="610" y="159" key="com.intellij.javaee.MapExternalResourceDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1584288247413" />
+    <state x="754" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584372739072">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="754" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1792.1028@0.23.1792.1028" timestamp="1584372739072" />
+    <state x="1094" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584366671607">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="1094" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1030@0.23.1792.1030" timestamp="1584366671607" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-1" timestamp="1584367938271">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-1/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938271" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-10" timestamp="1584367938272">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-10/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938272" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-11" timestamp="1584367938272">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-11/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938272" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-12" timestamp="1584367938272">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-12/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938272" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-13" timestamp="1584367938273">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-13/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938273" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-14" timestamp="1584367938273">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-14/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938273" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-15" timestamp="1584367938273">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-15/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938273" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-16" timestamp="1584367938273">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-16/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938273" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-17" timestamp="1584367938273">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-17/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938273" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-18" timestamp="1584367938273">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-18/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938273" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-2" timestamp="1584367938273">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-2/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938273" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-3" timestamp="1584367938274">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-3/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938274" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-4" timestamp="1584367938274">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-4/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938274" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-5" timestamp="1584367938274">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-5/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938274" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-6" timestamp="1584367938274">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-6/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938274" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-7" timestamp="1584367938274">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-7/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938274" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-8" timestamp="1584367938274">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-8/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938274" />
+    <state x="929" y="267" width="763" height="553" key="dock-window-9" timestamp="1584367938275">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="929" y="267" width="763" height="553" key="dock-window-9/0.23.1792.1030@0.23.1792.1030" timestamp="1584367938275" />
+    <state x="1048" y="313" key="extract.method.dialog" timestamp="1584375065202">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="1048" y="313" key="extract.method.dialog/0.23.1792.1028@0.23.1792.1028" timestamp="1584375065202" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584277622267">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1584277622267" />
+    <state x="561" y="193" width="670" height="674" key="search.everywhere.popup" timestamp="1584372506075">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="561" y="193" width="670" height="674" key="search.everywhere.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1584372506075" />
+    <state x="561" y="193" width="670" height="675" key="search.everywhere.popup/0.23.1792.1030@0.23.1792.1030" timestamp="1584365901207" />
+    <state x="561" y="193" width="670" height="675" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1584287673779" />
+    <state x="561" y="193" width="670" height="676" key="search.everywhere.popup/0.23.1792.1033@0.23.1792.1033" timestamp="1584282143684" />
+    <state x="561" y="193" width="670" height="676" key="search.everywhere.popup/0.23.1792.1034@0.23.1792.1034" timestamp="1584255475988" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.org/03"
+        xmlns:tns="http://www.example.org/03"
+        elementFormDefault="qualified">
+
+
+    <!--调用自己的命名空间 xmlns:tns 前面需要加tns前缀-->
+    <element name="book" type="tns:booktype"/>
+    <element name="id" type="int"/>
+    <element name="title" type="string"/>
+    <element name="content" type="string"/>
+
+
+    <complexType name="booktype">
+        <sequence>
+            <element ref="tns:id"/>
+            <element ref="tns:title"/>
+            <element ref="tns:content"/>
+        </sequence>
+    </complexType>
+
+
+</schema>
